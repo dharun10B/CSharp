@@ -129,7 +129,7 @@ namespace StudentApp
         }
         public void listmenubar()
         {
-            Console.WriteLine("MenuBar");
+            Console.WriteLine("******************** MenuBar ********************");
             Console.WriteLine("1.Display Fruits");
             Console.WriteLine("2.Add Fruits");
             Console.WriteLine("3.update Fruits");
